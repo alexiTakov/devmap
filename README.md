@@ -564,7 +564,7 @@
 ### Пакетный менеджер [&uarr;](#Содержание)
 - [ ] Список пакетных менеджеры:
     - [ ] [Bower](https://bower.io/)
-    - [ ] [npm](https://www.npmjs.com/)
+    - [X] [npm](https://www.npmjs.com/)
     - [ ] [Yarn](https://yarnpkg.com/)
 
 - [ ] Статьи:
@@ -575,7 +575,7 @@
 
 ### CSS фреймворки [&uarr;](#Содержание)
 - [ ] Список фреймворков:
-    - [ ] [Bootstrap](http://getbootstrap.com/)
+    - [X] [Bootstrap](http://getbootstrap.com/)
     - [ ] [Skeleton](http://getskeleton.com/)
     - [ ] [Foundation](http://foundation.zurb.com/)
 
